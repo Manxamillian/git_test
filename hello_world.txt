@@ -1,0 +1,5 @@
+I'm going to change the "hello_world.txt" file 
+so that I can see how changes made to files, and if they
+are in the modified, in the staging area - index - or committed
+
+let's see what color it is now
